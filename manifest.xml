@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://moonlit-pony-12b820.netlify.app/taskpane.html"/>
+        <SourceLocation DefaultValue="https://moonlit-pony-12b820.netlify.app/src/taskpane/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -81,8 +81,8 @@
         <bt:Image id="Icon.80x80" DefaultValue="https://moonlit-pony-12b820.netlify.app/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://moonlit-pony-12b820.netlify.app/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://moonlit-pony-12b820.netlify.app/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://moonlit-pony-12b820.netlify.app/src/commands/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://moonlit-pony-12b820.netlify.app/src/taskpane/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
