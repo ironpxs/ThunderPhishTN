@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="ThunderPhish"/>
   <Description DefaultValue="Ve tu correo más allá de lo evidente"/>
-  <IconUrl DefaultValue="https://65544f9e814fb259447a4da2--subtle-maamoul-c76080.netlify.app/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://65544f9e814fb259447a4da2--subtle-maamoul-c76080.netlify.app/assets/icon-80.png"/>
+  <IconUrl DefaultValue="https://moonlit-pony-12b820.netlify.app/assets/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://moonlit-pony-12b820.netlify.app/assets/icon-80.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <AppDomain>contoso.com</AppDomain>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://65544f9e814fb259447a4da2--subtle-maamoul-c76080.netlify.app/taskpane.html"/>
+        <SourceLocation DefaultValue="https://moonlit-pony-12b820.netlify.app/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -76,13 +76,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://65544f9e814fb259447a4da2--subtle-maamoul-c76080.netlify.app/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://65544f9e814fb259447a4da2--subtle-maamoul-c76080.netlify.app/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://65544f9e814fb259447a4da2--subtle-maamoul-c76080.netlify.app/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://moonlit-pony-12b820.netlify.app/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://moonlit-pony-12b820.netlify.app/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://moonlit-pony-12b820.netlify.app/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://65544f9e814fb259447a4da2--subtle-maamoul-c76080.netlify.app/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://65544f9e814fb259447a4da2--subtle-maamoul-c76080.netlify.app/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://moonlit-pony-12b820.netlify.app/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://moonlit-pony-12b820.netlify.app/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
